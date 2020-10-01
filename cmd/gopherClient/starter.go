@@ -7,5 +7,5 @@ import (
 
 func main() {
 	fmt.Println("Gopher z Just starting out :)")
-	dirs.AddonPrint()
+	fmt.Println(dirs.AddonPrint())
 }

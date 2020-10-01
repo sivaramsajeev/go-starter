@@ -1,11 +1,11 @@
 package dirs
 
-import (
-	"fmt"
-)
+// import (
+// 	"fmt"
+// )
 
 
 
-func AddonPrint() {
-	fmt.Println("Addon printed")
+func AddonPrint() string {
+	return "Addon printed"
 }
